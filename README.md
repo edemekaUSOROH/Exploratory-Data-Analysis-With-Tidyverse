@@ -25,7 +25,7 @@ This project involves an exploratory data analysis (EDA) of an airline dataset t
 
 ## Notebooks
 
-- `EDA_Flight_Arrival_Delay.ipynb`: Contains the exploratory analysis, feature selection, and prediction model development.
+- `Exploratory Data Analysis with Tidyverse.ipynb`: Contains the exploratory analysis, feature selection, and prediction model development.
   
 ## Tools and Libraries
 
@@ -35,11 +35,10 @@ This project involves an exploratory data analysis (EDA) of an airline dataset t
 ## Key Insights
 
 The analysis focused on identifying key factors affecting flight delays, such as:
-- Flight Distance
 - Departure Time
-- Weather Conditions
+- Carrier Delay
 - Carrier Type
-- Day of the Week
+- Late Aircraft Delay
 
 ## How to Run
 
